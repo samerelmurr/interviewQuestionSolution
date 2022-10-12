@@ -13,6 +13,6 @@ So the best solution to speed up the performance of the function is to place the
 
 ## How to Install and Run the Project:
 
-- Deployed Link [Deployed-link]()
+- Deployed Link [Deployed-link](https://samerelmurr.github.io/interviewQuestionSolution/)
 - Please if cloned click the index.html
 - Install the live server extention on VS code and run: [Live-Server-Link](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
